@@ -1,3 +1,4 @@
+//Comentarii adaugate de ChatGPT
 // -------------------------
 // BIBLIOTECI (LIBRARIES)
 // -------------------------
@@ -12,8 +13,8 @@
 // -------------------------
 // Wi-Fi
 // -------------------------
-const char* ssid = "DIGI_86f4d7";   // Numele rețelei Wi-Fi la care te conectezi.
-const char* password = "21d15123";  // Parola rețelei Wi-Fi.
+const char* ssid = "...";   // Numele rețelei Wi-Fi la care te conectezi.
+const char* password = "....";  // Parola rețelei Wi-Fi.
 
 // -------------------------
 // OLED
