@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-const char* ssid = "DIGI_86f4d7";
-const char* password = "21d15123";
+const char* ssid = "numeretea";
+const char* password = "parola";
 
 void setup(){
     Serial.begin(115200);
