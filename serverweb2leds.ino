@@ -14,10 +14,10 @@
 // ============================================================
 
 // Numele rețelei Wi-Fi.
-const char* ssid = "DIGI_86f4d7";
+const char* ssid = "DIGI...";
 
 // Parola rețelei Wi-Fi.
-const char* password = "21d15123";
+const char* password = "....";
 
 
 // ============================================================
