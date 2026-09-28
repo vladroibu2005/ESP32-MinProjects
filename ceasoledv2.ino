@@ -10,8 +10,8 @@
 // Wi-Fi + NTP
 // =========================
 
-const char* ssid = "DIGI_86f4d7";
-const char* parola = "21d15123";
+const char* ssid = "";
+const char* parola = "";
 
 const char* serverNTP = "pool.ntp.org";
 
